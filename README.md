@@ -36,6 +36,8 @@ A project like this can often be made in a few hours for roughly $40–$50 in su
 - FFmpeg
 - OpenRouter or another AI service for chats, images and coding generation/transmissions
 - Fonts from Google Fonts
+- For OpenRouter, use either "Auto Router" or "DeekSeek v4.1 Flash" are my recommended for chat/coding.
+- For OpenRouter, use FLUX.2 Pro recommended for images.
 
 ## Python Editing Script Runtime
 
