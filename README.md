@@ -1,3 +1,6 @@
+<img width="816" height="544" alt="Moonrise_Base_Image" src="https://github.com/user-attachments/assets/bd3fd199-906c-4b35-81ef-b32303b0f0f8" />
+
+
 ````markdown
 # MoonriseGlow
 
