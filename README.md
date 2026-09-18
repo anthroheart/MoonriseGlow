@@ -4,7 +4,7 @@
 ````markdown
 # MoonriseGlow
 
-A small experiment in making a complete animated music video with AI tools, Python, and FFmpeg.
+A small experiment in making a complete animated lyric music video with AI tools, Python, and FFmpeg.
 
 The video includes:
 
