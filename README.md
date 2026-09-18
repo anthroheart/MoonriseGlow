@@ -724,6 +724,19 @@ Before publishing, check the commercial-use rules for the AI services, music, im
 - Animation: Generated with Kling
 - Editing: Python and FFmpeg
 
+### How to Make This for Free ($0)
+
+You can replicate this entire pipeline without spending money by using free tiers and open-source software:
+
+* **Master Image:** Generate via **Microsoft Copilot (DALL-E 3)**, **FLUX.1 [schnell]** on Hugging Face Spaces, or local **Stable Diffusion**.
+* **Music:** Use the daily free allotment on **Suno** (50 credits/day) or **Udio**.
+* **Video Animation:** Claim daily free login credits across platforms like **Kling AI**, **Luma Dream Machine**, or **Hailuo AI (MiniMax)** to generate the 8 clips over 1–2 days.
+* **Code & Prompts:** Use free tiers of **ChatGPT**, **Google AI Studio (Gemini)**, or **Claude**.
+* **Video Assembly:** **Python** and **FFmpeg** are completely free and run locally.
+
+*(Total cost: $0. Requires spreading generation over free daily credit resets.)*
+
+
 ```
 
 ```
