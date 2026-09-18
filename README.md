@@ -66,6 +66,8 @@ moonrise-glow/
 │   └── 08_wind_down.mp4
 └── fonts/
     └── Cinzel-SemiBold.ttf
+└── scripts/
+    └── make_moonrise_video.py
 ```
 ````
 
