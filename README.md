@@ -702,10 +702,10 @@ if __name__ == "__main__":
     build_video()
 ```
 
-Run it:
+Run it (from main folder outside of scripts):
 
 ```bash
-python3 make_moonrise_video.py
+python3 scripts/make_moonrise_video.py
 ```
 
 The finished video will be saved as:
