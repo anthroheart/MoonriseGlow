@@ -1,7 +1,5 @@
 <img width="816" height="544" alt="Moonrise_Base_Image" src="https://github.com/user-attachments/assets/bd3fd199-906c-4b35-81ef-b32303b0f0f8" />
 
-
-````markdown
 # MoonriseGlow
 
 A small experiment in making a complete animated lyric music video with AI tools, Python, and FFmpeg.
@@ -743,8 +741,3 @@ You can replicate this entire pipeline without spending money by using free tier
 * **Video Assembly:** **Python** and **FFmpeg** are completely free and run locally.
 
 *(Total cost: $0. Requires spreading generation over free daily credit resets.)*
-
-
-```
-
-```
