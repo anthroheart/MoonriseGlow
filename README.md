@@ -23,6 +23,8 @@ License: MIT
 Date: Thursday, Sept. 17, 2026
 Source: AnthroHeart Ecosystem (CC BY 4.0): https://deviantart.com/anthro-shaman
 
+## Project Files: https://archive.org/details/moonrise-glow-FINAL
+
 A project like this can often be made in a few hours for roughly $40–$50 in subscriptions and usage credits.
 
 > This project uses fictional animal-like characters and an invented chant language. The chant is not based on a real language or culture.
