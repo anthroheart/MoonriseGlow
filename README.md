@@ -264,6 +264,8 @@ Glim-glam... woo-shhh... | Goodnight moon...
 
 ## 5. Run the Python Editor
 
+### I used DeepSeek v4.1 Flash to write this code after telling it what I needed it to do with FFMPeg. Video edited in about 3 mins, without needing a GPU.
+
 Save the following file as:
 
 ```text
