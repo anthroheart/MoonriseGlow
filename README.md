@@ -14,9 +14,9 @@ The video includes:
 - Automatically created subtitles
 - Automatic crossfades, looping, color effects, and audio fades
 
-## VIDEO DEMO: https://www.youtube.com/watch?v=yOGric3p3yI
+## VIDEO DEMO: [https://www.youtube.com/watch?v=yOGric3p3yI](https://www.youtube.com/watch?v=yOGric3p3yI)
 
-## See Also Violet Sun (Forest Moon): https://www.youtube.com/watch?v=VZngccpEIa8
+## See Also Violet Sun (Forest Moon): [https://www.youtube.com/watch?v=VZngccpEIa8](https://www.youtube.com/watch?v=VZngccpEIa8)
 
 Created by: Thomas B. Sweet (Saguna Anthroness aka Aumaroo AnthroHeart Starwalker)
 License: MIT
